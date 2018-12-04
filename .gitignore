@@ -1,0 +1,36 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Common ###
+.DS_Store
+.mvn/
+mvnw
+mvnw.cmd
+client_8081/.gitignore
+client_8082/.gitignore
+gateway/.gitignore
+registry_center/.gitignore
+registry_center_2/.gitignore
